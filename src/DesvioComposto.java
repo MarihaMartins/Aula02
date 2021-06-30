@@ -23,7 +23,6 @@ public class DesvioComposto {
 		}
 		
 		
-		
 		System.out.println("A doação de R$" + doacao + " implica em um investimento de R$" + investimento + ", restando R$" + usoImediato + " para uso imediato");
 		
 		leitor.close();
